@@ -247,6 +247,18 @@ const translations = {
       }
     },
     experiencia: {
+      ntt: {
+        title: "Becario de Consultoría IT – NTT DATA Spain",
+        date: "Septiembre 2026 – Actualidad",
+        type: "Prácticas",
+        desc: "Prácticas en consultoría IT: desarrollo en .NET y SQL, y contacto directo con el cliente para entender necesidades y traducirlas en soluciones.",
+        techLabel: "Tecnologías",
+        skillsLabel: "Soft skills",
+        skill1: "Resolución de problemas",
+        skill2: "Explicar conceptos técnicos a perfiles funcionales o no técnicos",
+        skill3: "Adaptabilidad y aprendizaje rápido y continuo",
+        skill4: "Escucha activa y gestión de requisitos"
+      },
       cfmana: {
         title: "Diseñador Web – CFManá",
         date: "Febrero 2023 – Mayo 2023",
@@ -401,6 +413,18 @@ const translations = {
       }
     },
     experiencia: {
+      ntt: {
+        title: "IT Consulting Intern – NTT DATA Spain",
+        date: "September 2026 – Present",
+        type: "Internship",
+        desc: "Internship in IT consulting: development with .NET and SQL, and direct client contact to understand needs and turn them into solutions.",
+        techLabel: "Technologies",
+        skillsLabel: "Soft skills",
+        skill1: "Problem solving",
+        skill2: "Explaining technical concepts to functional and non-technical audiences",
+        skill3: "Adaptability and fast, continuous learning",
+        skill4: "Active listening and requirements management"
+      },
       cfmana: {
         title: "Web Designer – CFManá",
         date: "February 2023 – May 2023",
