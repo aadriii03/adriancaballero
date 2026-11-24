@@ -221,7 +221,10 @@ const translations = {
       trabajo: "Trabajo<br>en equipo",
       analitico: "Pensamiento Analítico",
       comunicativas: "Habilidades Comunicativas",
-      adaptabilidad: "Adaptabilidad",
+      adaptabilidad: "Adaptabilidad y aprendizaje continuo",
+      resolucion: "Resolución de problemas",
+      explicar: "Explicar conceptos técnicos",
+      escucha: "Escucha activa y requisitos",
       objetivos: "Orientado a Objetivos"
     },
     tecnologias: {
@@ -251,13 +254,7 @@ const translations = {
         title: "Becario de Consultoría IT – NTT DATA Spain",
         date: "Septiembre 2026 – Actualidad",
         type: "Prácticas",
-        desc: "Prácticas en consultoría IT: desarrollo en .NET y SQL, y contacto directo con el cliente para entender necesidades y traducirlas en soluciones.",
-        techLabel: "Tecnologías",
-        skillsLabel: "Soft skills",
-        skill1: "Resolución de problemas",
-        skill2: "Explicar conceptos técnicos a perfiles funcionales o no técnicos",
-        skill3: "Adaptabilidad y aprendizaje rápido y continuo",
-        skill4: "Escucha activa y gestión de requisitos"
+        desc: "Prácticas en consultoría IT en un proyecto del sector energético, desarrollando en .NET y SQL y participando en análisis de requisitos, pruebas y soporte. Trato directo con el cliente para entender sus necesidades y convertirlas en soluciones."
       },
       cfmana: {
         title: "Diseñador Web – CFManá",
@@ -387,7 +384,10 @@ const translations = {
       trabajo: "Teamwork",
       analitico: "Analytical Thinking",
       comunicativas: "Communication Skills",
-      adaptabilidad: "Adaptability",
+      adaptabilidad: "Adaptability and continuous learning",
+      resolucion: "Problem solving",
+      explicar: "Explaining technical concepts",
+      escucha: "Active listening and requirements",
       objetivos: "Goal Oriented"
     },
     tecnologias: {
@@ -417,13 +417,7 @@ const translations = {
         title: "IT Consulting Intern – NTT DATA Spain",
         date: "September 2026 – Present",
         type: "Internship",
-        desc: "Internship in IT consulting: development with .NET and SQL, and direct client contact to understand needs and turn them into solutions.",
-        techLabel: "Technologies",
-        skillsLabel: "Soft skills",
-        skill1: "Problem solving",
-        skill2: "Explaining technical concepts to functional and non-technical audiences",
-        skill3: "Adaptability and fast, continuous learning",
-        skill4: "Active listening and requirements management"
+        desc: "IT consulting internship on an energy-sector project, working with .NET and SQL and taking part in requirements analysis, testing and support. Direct client contact to understand their needs and turn them into solutions."
       },
       cfmana: {
         title: "Web Designer – CFManá",
