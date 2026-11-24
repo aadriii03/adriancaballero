@@ -241,6 +241,9 @@ const translations = {
       etfpro: {
         desc: "Aplicación web para analizar ETFs y gestionar carteras de inversión, integrando APIs financieras y dashboards interactivos."
       },
+      financepro: {
+        desc: "Mi aplicación web para la gestión de finanzas personales: registro de ingresos y gastos por categorías, con inicio de sesión, base de datos en la nube y acceso desde cualquier dispositivo."
+      },
       alzheimeratlas: {
         desc: "Aplicación de escritorio diseñada para apoyar a pacientes con Alzheimer y sus familiares, ofreciendo secciones de consejos, ejercicios, lectura, juegos y contenido educativo sobre la enfermedad."
       },
@@ -403,6 +406,9 @@ const translations = {
       },
       etfpro: {
         desc: "Web application to analyze ETFs and manage investment portfolios, integrating financial APIs and interactive dashboards."
+      },
+      financepro: {
+        desc: "My web application for personal finance management: income and expense tracking by category, with user login, a cloud database and access from any device."
       },
       alzheimeratlas: {
         desc: "Desktop application designed to support Alzheimer's patients and their families, offering sections on tips, exercises, reading, games, and educational content about the disease."
